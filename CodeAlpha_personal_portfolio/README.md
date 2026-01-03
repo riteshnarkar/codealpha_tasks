@@ -103,74 +103,11 @@ portfolio-website/
 2. Open the project folder and start the server
 3. View at `http://localhost:8000` (or the port specified)
 
-## 📝 Customization Guide
-
-### Updating Personal Information
-1. **Text Content**: Edit the content directly in `index.html`
-2. **Colors**: Modify CSS variables in `:root` section of `style.css`
-3. **Projects**: Add/modify project cards in the projects section
-4. **Social Links**: Update URLs in the contact section
-
-### Adding New Sections
-1. Add HTML structure in `index.html`
-2. Add corresponding styles in `style.css`
-3. Update navigation menu with new link
-
-## 📸 Screenshots
-
-### Desktop View
-![Desktop Screenshot](placeholder-for-desktop-screenshot.png)
-*Caption: Full desktop view showcasing all sections*
-
-### Mobile View
-![Mobile Screenshot](placeholder-for-mobile-screenshot.png)
-*Caption: Responsive mobile layout with hamburger menu*
-
-### Tablet View
-![Tablet Screenshot](placeholder-for-tablet-screenshot.png)
-*Caption: Tablet view showing responsive grid layouts*
-
-> **Note**: Replace placeholder text with actual screenshots once the website is deployed.
-
-## 🎯 Code Quality Standards
-
-- **Semantic HTML**: Proper use of HTML5 semantic elements
-- **Clean Code**: Well-organized, commented, and readable
-- **Accessibility**: ARIA labels and semantic structure
-- **Performance**: Optimized animations and lightweight code
-- **Cross-browser**: Compatible with modern browsers
-- **W3C Valid**: HTML and CSS follow W3C standards
-
-## 🔄 Future Enhancements
-
-Potential improvements for future iterations:
-- [ ] Contact form with email functionality
-- [ ] Dark/light theme toggle
-- [ ] Blog section
-- [ ] Project filtering by technology
-- [ ] Testimonials section
-- [ ] Backend integration for dynamic content
-- [ ] Analytics integration
-
-## 📱 Browser Compatibility
-
-Tested and working on:
-- ✅ Chrome (90+)
-- ✅ Firefox (88+)
-- ✅ Safari (14+)
-- ✅ Edge (90+)
-- ✅ Mobile browsers (iOS Safari, Chrome Mobile)
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourusername)
-- Email: your.email@example.com
+**Ritesh Narkar**
+- GitHub: [@riteshnarkar](https://github.com/riteshnarkar)
+- Email: narkarritesh@gmail.com.com
 
 ## 🙏 Acknowledgments
 
