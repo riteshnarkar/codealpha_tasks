@@ -107,7 +107,7 @@ portfolio-website/
 
 **Ritesh Narkar**
 - GitHub: [@riteshnarkar](https://github.com/riteshnarkar)
-- Email: narkarritesh@gmail.com.com
+- Email: narkarritesh23@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -119,4 +119,4 @@ portfolio-website/
 
 **⭐ If you found this project helpful, please give it a star!**
 
-*Built with ❤️ as an internship task project - December 2024*
+*Built with ❤️ as an internship task project - December 2025*
