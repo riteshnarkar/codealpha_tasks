@@ -195,7 +195,7 @@ Contributions are welcome! Feel free to:
 
 ## 👤 Author
 
-**Your Name**
+**Ritesh Narkar**
 - GitHub: [@riteshnarkar](https://github.com/riteshnarkar)
 - LinkedIn: [Ritesh Narkar](https://linkedin.com/in/riteshnarkar)
 
