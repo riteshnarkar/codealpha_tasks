@@ -209,7 +209,7 @@ Contributions are welcome! Feel free to:
 
 Have questions or suggestions? Feel free to reach out!
 
-- Email: narkarritesh@gmail.com
+- Email: narkarritesh23@gmail.com
 
 ---
 
