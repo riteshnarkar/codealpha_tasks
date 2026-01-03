@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Modern responsive image gallery with filtering and lightbox">
+    <meta name="author" content="Your Name">
+    <title>Modern Image Gallery</title>
+    
+    <!-- Link to external CSS file -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- HEADER SECTION -->
+    <div class="header">
+        <h1>✨ Modern Image Gallery</h1>
+        <p>Explore beautiful images across different categories</p>
+    </div>
+
+    <!-- FILTER BUTTONS -->
+    <div class="filter-container">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="nature">Nature</button>
+        <button class="filter-btn" data-filter="city">City</button>
+        <button class="filter-btn" data-filter="animals">Animals</button>
+    </div>
+
+    <!-- GALLERY GRID -->
+    <div class="gallery" id="gallery">
+        <!-- Images will be dynamically loaded here via JavaScript -->
+    </div>
+
+    <!-- LIGHTBOX MODAL -->
+    <div class="lightbox" id="lightbox">
+        <div class="lightbox-content">
+            <button class="lightbox-close" id="lightboxClose">&times;</button>
+            <button class="lightbox-nav lightbox-prev" id="lightboxPrev">&#10094;</button>
+            <img src="" alt="" id="lightboxImg">
+            <button class="lightbox-nav lightbox-next" id="lightboxNext">&#10095;</button>
+            <div class="lightbox-caption" id="lightboxCaption"></div>
+        </div>
+    </div>
+
+    <!-- Link to external JavaScript file -->
+    <script src="script.js"></script>
+</body>
+</html>
