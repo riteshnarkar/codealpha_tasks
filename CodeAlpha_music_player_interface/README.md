@@ -206,7 +206,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Your Name - narkarritesh@gmail.com
+Your Name - narkarritesh23@gmail.com
 
 
 ---
